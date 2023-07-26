@@ -13,15 +13,22 @@ Custom Markdown Transformers to support mentions, underline, alignment and other
 
 ### Align test
 Showing functionality of how alignment works with markdown
+
 https://github.com/InfamousBolt/lexical-markdown-plugin-example/assets/47386839/67df3d0b-5d0e-4496-8566-df6084d214f6
+
 
 ### Mention test
 Showing functionality of how mentions work with markdown
+
 https://github.com/InfamousBolt/lexical-markdown-plugin-example/assets/47386839/754a51ed-a212-423a-8936-d24edc939694
+
 
 ### Compare test
 Showing comparison between different types of content in Basic HTML and Lexical
+
 https://github.com/InfamousBolt/lexical-markdown-plugin-example/assets/47386839/a4832349-fd2e-45da-b82b-a18d45312d06
+
+
 
 
 

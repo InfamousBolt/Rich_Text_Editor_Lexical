@@ -1,0 +1,40 @@
+{
+  "name": "lexical-markdown-plugin-example",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@informatica/droplets-core": "^2.192.1",
+    "@lexical/react": "^0.10.0",
+    "@lexical/selection": "0.6.0",
+    "@lexical/yjs": "0.6.0",
+    "@types/react": "^18.0.28",
+    "bootstrap": "^5.2.3",
+    "lexical": "^0.10.0",
+    "lodash-es": "^4.17.21",
+    "prettier": "^2.3.2",
+    "react": "18.1.0",
+    "react-bootstrap": "^2.7.4",
+    "react-dom": "18.1.0",
+    "react-dropzone": "^14.2.3",
+    "react-scripts": "5.0.1",
+    "turndown": "^7.1.2",
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "@types/react-dom": "^18.0.11",
+    "node-sass": "^8.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
